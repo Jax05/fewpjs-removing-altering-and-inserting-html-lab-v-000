@@ -1,3 +1,3 @@
-document.querySelector("main#main").remove();
+document.getElementById("main#main").remove();
 
-const newHeader = document.createElement("h1#victory")
+const newHeader = document.createElement("h1#victory");
